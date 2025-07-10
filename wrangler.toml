@@ -1,0 +1,9 @@
+name = "finfoliostock"
+type = "javascript"
+account_id = "64d0c51eb60eb6251c2e768aae534dd7"
+workers_dev = true
+compatibility_date = "2025-07-10"
+
+[site]
+bucket = "./dist"
+entry-point = "."
